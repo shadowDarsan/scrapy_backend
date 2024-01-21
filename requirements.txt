@@ -1,5 +1,6 @@
 Flask
-flask-cors
-requests
-beautifulsoup4
+gunicorn
 duckduckgo-search
+Flask-Cors
+beautifulsoup4
+requests
