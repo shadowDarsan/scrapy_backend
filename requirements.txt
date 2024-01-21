@@ -1,3 +1,5 @@
-duckduckgo_search
-bs4
-flask
+Flask
+flask-cors
+requests
+beautifulsoup4
+duckduckgo-search
